@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python and c**
 
-- 📫 How to reach me **https://www.linkedin.com/in/badhon-nandi/**
+- 📫 How to reach me **https://www.linkedin.com/in/badhon-nandi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
