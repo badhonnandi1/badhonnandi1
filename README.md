@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/1055691455110332469/1100070571963846736/banner.png)
 <h1 align="center">Hi 👋, I'm Badhon Nandi</h1>
-<h3 align="center">A self-learner.  Game Dev, ML, and AI Enthusiasts from Bangladesh</h3>
+<!-- <h3 align="center">A self-learner.  Game Dev, ML, and AI Enthusiasts from Bangladesh</h3> -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Game-Dev+and+ML+Enthusiast;Learning+In+Public;Self+Learner;Helping+Others;Nice+To+Meet+You+...&center=true"></a>
