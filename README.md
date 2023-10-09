@@ -3,7 +3,7 @@
 <h3 align="center">A self-learner.  Game Dev, ML, and AI Enthusiasts from Bangladesh</h3>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Teaching+and+ML+Enthusiast;Learning+In+Public;Self+Learner;Helping+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Data Science+and+ML+Enthusiast;Learning+In+Public;Self+Learner;Helping+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 <img align="right" alt="Coding" width="370" src="https://cdn.discordapp.com/attachments/1055691455110332469/1100064817835954226/giphy.gif">
