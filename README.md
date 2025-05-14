@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1055691455110332469/1100070571963846736/banner.png)
+![MasterHead](https://img.freepik.com/premium-vector/welcome-banner-text-handwritten-art-original-typography-with-colorful-ornament_29503-462.jpg)
 <h1 align="center">Hi 👋, I'm Badhon Nandi</h1>
 <h3 align="center">A self-learner.  Game Dev, ML, and AI Enthusiasts from Bangladesh</h3>
 <p align="center">
